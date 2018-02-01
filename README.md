@@ -29,11 +29,28 @@ This teaching material was designed to be used on ShARC but is also relevant to 
 
 ## Materials
 
-* **TODO: HYPERLINKED ORDERED LIST OF NOTEBOOKS**
+1. [Preparations](setup.ipynb)
+1. [Parallelisation using packages that support multithreading](multithreading.ipynb)
+1. [Parallelising your own code using multiple Python processes on a single machine](multiprocessing.ipynb)
 
-## Setup
+**TODO: FINISH THIS LIST**
 
-* **TODO**
+1. [INCLUDE CYTHON NUMBA?](cython_numba.ipynb)
+1. [INCLUDE MPI?](mpi.ipynb)
+1. [INCLUDE PYCUDA?](pycuda.ipynb)
+1. INCLUDE DASK?
+
+## Getting started
+
+**TODO**
+
+## Further reading
+
+* Wilkinson, B. (1999). *Parallel programming: techniques and applications using networked workstations and parallel computers*. 
+  Prentice Hall, Upper Saddle River, N.J. ISBN: 0-13-671710-1
+* Gorelick, M. and Ozsvald, I. (2014). *High performance Python*, 
+  First edition. ed. O’Reilly, Sebastopol, CA.  ISBN: 978-1-4493-6159-4
+* [Using JupyterHub on the University of Sheffield's ShARC cluster](http://docs.hpc.shef.ac.uk/en/latest/hpc/jupyterhub.html)
 
 ## Acknowledgements
 
