@@ -46,7 +46,7 @@ This teaching material was designed to be used on ShARC but is also relevant to 
 
 ## Further reading
 
-* Wilkinson, B. (1999). *Parallel programming: techniques and applications using networked workstations and parallel computers*. 
+* Wilkinson, B. and Allen, M. (1999). *Parallel programming: techniques and applications using networked workstations and parallel computers*. 
   Prentice Hall, Upper Saddle River, N.J. ISBN: 0-13-671710-1
 * Gorelick, M. and Ozsvald, I. (2014). *High performance Python*, 
   First edition. ed. O’Reilly, Sebastopol, CA.  ISBN: 978-1-4493-6159-4
