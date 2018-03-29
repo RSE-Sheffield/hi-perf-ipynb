@@ -21,28 +21,11 @@ This teaching material was designed to be used on ShARC but is also relevant to 
 * Understanding of the different types of parallelism and their merits
 * Basic understanding of theoretical speedups and Amdahl's Law
 * Understaning of communication vs computation costs
-* Ability to identify and use libraries that can distribute non-Python work between threads
-* Ability to distribute Python work between processes using `multiprocessing`
-* Ability to distribute Python work between machines using MPI
-* Ability to use CUDA for large-scale vectorisation
-* ...**MORE?**
+* Ability to achieve speedups using distributed memory parallelism and specifically MPI
 
-## Materials
+## Lessons
 
-1. [Preparations](setup.ipynb)
-1. [Parallelisation using packages that support multithreading](multithreading.ipynb)
-1. [Parallelising your own code using multiple Python processes on a single machine](multiprocessing.ipynb)
-
-**TODO: FINISH THIS LIST**
-
-1. [INCLUDE CYTHON NUMBA?](cython_numba.ipynb)
-1. [INCLUDE MPI?](mpi.ipynb)
-1. [INCLUDE PYCUDA?](pycuda.ipynb)
-1. INCLUDE DASK?
-
-## Getting started
-
-**TODO**
+1. [Distributed memory parallelism using MPI](mpi.ipynb)
 
 ## Further reading
 
