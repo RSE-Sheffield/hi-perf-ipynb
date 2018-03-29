@@ -26,8 +26,8 @@ This teaching material was designed to be used on ShARC but is also relevant to 
 
 ## Lessons
 
-1. [Parallelisation using packages that support multithreading](multithreading.ipynb)
-1. [Parallelising your own code using multiple Python processes on a single machine](multiprocessing.ipynb)
+1. [Parallelisation using packages that support multithreading](tutorials/multithreading.ipynb)
+1. [Parallelising your own code using multiple Python processes on a single machine](tutorials/multiprocessing.ipynb)
 
 ## Further reading
 
