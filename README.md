@@ -23,26 +23,11 @@ This teaching material was designed to be used on ShARC but is also relevant to 
 * Understaning of communication vs computation costs
 * Ability to identify and use libraries that can distribute non-Python work between threads
 * Ability to distribute Python work between processes using `multiprocessing`
-* Ability to distribute Python work between machines using MPI
-* Ability to use CUDA for large-scale vectorisation
-* ...**MORE?**
 
-## Materials
+## Lessons
 
-1. [Preparations](setup.ipynb)
 1. [Parallelisation using packages that support multithreading](multithreading.ipynb)
 1. [Parallelising your own code using multiple Python processes on a single machine](multiprocessing.ipynb)
-
-**TODO: FINISH THIS LIST**
-
-1. [INCLUDE CYTHON NUMBA?](cython_numba.ipynb)
-1. [INCLUDE MPI?](mpi.ipynb)
-1. [INCLUDE PYCUDA?](pycuda.ipynb)
-1. INCLUDE DASK?
-
-## Getting started
-
-**TODO**
 
 ## Further reading
 
