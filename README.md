@@ -22,7 +22,7 @@ This teaching material was designed to be used on ShARC but is also relevant to 
 * Basic understanding of theoretical speedups and Amdahl's Law
 * Understaning of communication vs computation costs
 * Ability to identify and use libraries that can distribute non-Python work between threads
-* Ability to distribute Python work between processes using `multiprocessing`
+* Ability to distribute Python work between processes using multiprocessing
 
 ## Lessons
 
