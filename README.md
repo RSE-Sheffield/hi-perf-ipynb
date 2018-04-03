@@ -44,8 +44,10 @@ a [Horizon2020][h2020] European [Research Infrastructure][res-inf] project ([676
 advance the open source computational mathematics ecosystem.
 
 <div align="center"> 
-<img src="static/opendreamkit.svg" alt="OpenDreamKit logo" alt="LabCollector logo" width="30%" />
+<img src="static/opendreamkit.svg" alt="OpenDreamKit logo" height=200em />
+<img src="static/rse-sheffield-logo.png" alt="RSE Sheffield logo" height=200em />
 </div>
+
 
 [odk]: http://opendreamkit.org/
 [h2020]: https://ec.europa.eu/programmes/horizon2020/
