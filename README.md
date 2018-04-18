@@ -17,7 +17,7 @@ This teaching material was designed to be used on ShARC but is also relevant to 
 
 ## Learning outcomes
 
-* Understanding of why parallelisation is of increasing performance given the death of Moore's Law
+* Understanding of why parallelisation is of increasing importance given the death of Moore's Law
 * Understanding of the different types of parallelism and their merits
 * Basic understanding of theoretical speedups and Amdahl's Law
 * Understaning of communication vs computation costs
